@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Volleyball Score Counter</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="score_label">Score</string>
+    <string name="set_score_label">Sets</string>
+    <string name="points_from_serve">Serve</string>
+    <string name="points_from_spike">Spike</string>
+    <string name="points_from_block">Block</string>
+    <string name="points_from_opponent_error">Opponent Error</string>
+    <string name="details">Details</string>
+    <string name="initial_score">0</string>
+    <string name="button_spike">spike</string>
+    <string name="button_block">block</string>
+    <string name="button_serve">serve</string>
+    <string name="button_opp_error">opp. error</string>>
+    <string name="button_set">set</string>
+    <string name="button_decrease">–</string>
+    <string name="button_reset">clear</string>
+    <string name="send">send</string>
+</resources>
+

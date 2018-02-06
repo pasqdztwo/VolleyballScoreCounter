@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#CC000000</color>
+    <color name="colorAccent">#f05545</color>
+    <color name="primaryFont">#ffffff</color>
+    <color name="secondaryFont">#FFD740</color>
+    <color name="primaryButtonTextColor">#000000</color>
+    <color name="primaryButtonColor">#FFC107</color>
+    <color name="secondaryButtonColor">#000000</color>
+    <color name="secondaryButtonTextColor">#FFC107</color>
+    <color name="tertiaryButtonColor">#000063</color>
+</resources>
